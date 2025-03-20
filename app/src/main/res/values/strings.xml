@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_app_name">Welcome to App Name.</string>
+    <string name="discover_amazing_thing_near_around_you">Discover Amazing Thing Near Around You.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or_connect_using">Or Connect Using</string>
+    <string name="skip">Skip</string>
+</resources>
